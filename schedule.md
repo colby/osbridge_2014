@@ -1,7 +1,7 @@
-OS Bridge Schedule
+Schedule
 ====
 
-Tuesday
+Tuesday - 6/24
 ----
 ````
 8       Registration
