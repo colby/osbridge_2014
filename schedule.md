@@ -3,6 +3,7 @@ OS Bridge Schedule
 
 Tuesday
 ----
+````
 8       Registration
 
 9-945   Its Dangerous to Go Alone               Sanctuary
@@ -22,3 +23,4 @@ Tuesday
 
 445-530 How to make generics in C               B201
         Performance strategies at scale         B304
+````
