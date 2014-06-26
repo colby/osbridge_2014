@@ -44,3 +44,19 @@ Wednesday - 6/25
 445-530 History on Concurrency                  B201
         Introduction to Scala                   B204
 ````
+Thursday - 6/26
+````
+10-1045 Freedom, security and the cloud         B204
+        Making Your Privacy Software Usable     B304
+        
+11-1145 Extending Gems - (Anti) Patterns        B304
+        
+130-215 xmonad: the window manager              B201
+        
+230-315 Data, Privacy, & Trust: Wikipedia       B304
+        Deconstructing Open Source              B302
+
+345-430 
+
+445-530
+````
