@@ -56,7 +56,7 @@ Thursday - 6/26
 230-315 Data, Privacy, & Trust: Wikipedia       B304
         Deconstructing Open Source              B302
 
-345-430 
+345-430 Mesh networks
 
-445-530
+445-530 Crypto currency
 ````
